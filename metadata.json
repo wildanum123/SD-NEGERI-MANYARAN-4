@@ -1,0 +1,8 @@
+{
+  "name": "Remix Ruang Pengaduan SD Negeri Manyaran 4 Kediri",
+  "description": "Layanan aspirasi, saran, dan pengaduan orang tua murid SD Negeri Manyaran 4 Kecamatan Banyakan Kabupaten Kediri yang aman, anonim, terstruktur dengan dashboard notifikasi real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
